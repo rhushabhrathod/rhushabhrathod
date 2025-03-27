@@ -22,7 +22,6 @@ I'm a passionate **MERN Stack Developer** with over 1.5 years of experience buil
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rushabh2442)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhushabhrathod&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhushabhrathod&layout=compact&theme=radical)
 
 Let's build something amazing together! 🚀
